@@ -1,6 +1,7 @@
 package Mar29;
 
 import java.util.Scanner;
+import java.io.*;
 
 public class PrintRectangleUsingStars {
     public static void main(String[] args) {
